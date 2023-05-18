@@ -20,7 +20,7 @@ Citation
   doi = {https://doi.org/10.1016/j.jag.2023.103333},
   url = {https://www.sciencedirect.com/science/article/pii/S1569843223001553},
   author = {Ali Jamali and Swalpa Kumar Roy and Pedram Ghamisi},
-}
+  }
 
 Acknowledgement
 ---------------------
