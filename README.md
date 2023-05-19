@@ -10,7 +10,7 @@ Citation
 
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
-    @article{JAMALI2023103333,
+    @article{jamali2023wetmapformer,
       title = {WetMapFormer: A unified deep CNN and vision transformer for complex wetland mapping},
       author = {Ali Jamali and Swalpa Kumar Roy and Pedram Ghamisi},
       journal = {International Journal of Applied Earth Observation and Geoinformation},
