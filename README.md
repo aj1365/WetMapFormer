@@ -12,14 +12,14 @@ Citation
 
     @article{JAMALI2023103333,
       title = {WetMapFormer: A unified deep CNN and vision transformer for complex wetland mapping},
+      author = {Ali Jamali and Swalpa Kumar Roy and Pedram Ghamisi},
       journal = {International Journal of Applied Earth Observation and Geoinformation},
       volume = {120},
       pages = {103333},
       year = {2023},
       issn = {1569-8432},
       doi = {https://doi.org/10.1016/j.jag.2023.103333},
-      url = {https://www.sciencedirect.com/science/article/pii/S1569843223001553},
-      author = {Ali Jamali and Swalpa Kumar Roy and Pedram Ghamisi},
+      url = {https://www.sciencedirect.com/science/article/pii/S1569843223001553}
     }
 
 Acknowledgement
